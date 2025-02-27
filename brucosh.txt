@@ -1,0 +1,3 @@
+Hi 👋, I named this file as brucosh since this is my very first 
+one projcet learning git -> As a synonym for students in their
+ first year of uni :)
